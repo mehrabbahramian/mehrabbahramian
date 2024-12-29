@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehrab Bahramian</h1>
-<h3 align="center">A passionate reactJS frontend developer</h3>
+<h3 align="center">reactJS frontend developer</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **GIS WebApps**
 
 - 💬 Ask me about **React , EJS , TypeScript**
 
